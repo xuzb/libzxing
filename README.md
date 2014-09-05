@@ -36,3 +36,7 @@ To run the zxing-samples, add the following to your setting.gradle
 ```
 include ':libzxing:zxing-samples'
 ```
+
+Usage
+-----
+See [zxing-android-minimal](https://github.com/embarkmobile/zxing-android-minimal) for details.
